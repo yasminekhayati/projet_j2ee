@@ -1,1 +1,1 @@
-<h1>Welcome to DevOps ISETKR yasminekhayati!!! Deploiement avec GIT-->Github-->jenkins--> webapp.war--> container  Tomcat puis on peut affichier</h1>
+<h1>Welcome to DevOps training !!! Deploiement automatique jenkins-->ansible-->tomcat N.GRASSA </h1>
