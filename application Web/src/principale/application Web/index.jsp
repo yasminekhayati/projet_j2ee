@@ -1,1 +1,1 @@
-<h1>Welcome to DevOps training !!! Deploiement automatique jenkins-->ansible-->tomcat N.GRASSA </h1>
+<h1> hello, Welcome to DevOps!!! Deploiement avec GIT-->jenkins-->webapp.war-->Dockerfile-->tomcat-prod_image_docker N.GRASSA</h1>
